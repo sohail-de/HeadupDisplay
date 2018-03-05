@@ -1,0 +1,4 @@
+--pythonpath python
+--pythonpath resources
+--outputdir results
+--loglevel DEBUG:INFO
